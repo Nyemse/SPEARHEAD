@@ -20,7 +20,7 @@ Special thanks to these users who's forum posts and code were super useful for v
 
 ## Special Thanks
 
-@00scorpion00 : Creator of ACS, a system that I have spenty countless hours modifying and playing with.
+@00scorpion00 : Creator of ACS, a system that I have spent countless hours modifying and playing with.
 Also the developer of Operations: Siege, check it out in his primary group!
 
 @Archeximus : Creator of amazing combat systems and a huge inspiration to me.
