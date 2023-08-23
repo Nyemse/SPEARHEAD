@@ -12,11 +12,21 @@
 
 [@EXM_0](https://devforum.roblox.com/u/EXM_0) : Made a thorough [FPS tutorial](https://devforum.roblox.com/t/designing-an-fps-framework-beginners-guide/1198208) on the dev forum that the recoil calculations are based on.
 
+[@imdaros](https://www.roblox.com/users/630902604/profile) : Released some cool flipbooks that I used for some of the hit effects.
+
+[@vampyrio09](https://www.roblox.com/users/51920259/profile) : Made the particle emitters I used for the blood hit fx.
+
+[@DevBuda](https://www.roblox.com/users/2493863166/profile) : Imported a bunch of M4A1 meshes and attachments that I used for some of the gun models.
+
+[@IrischaII](https://www.roblox.com/users/4608144779/profile) : Imported a bunch of gun models and gave me permission to include them with public versions of Spearhead.
+
 Special thanks to these users who's forum posts and code were super useful for various mechanics;
 [@LittleBagOfGarbage](https://devforum.roblox.com/u/littlebagofgarbage/summary)
 [@Clueless_Brick](https://devforum.roblox.com/u/clueless_brick/summary)
 [@heII_ish](https://devforum.roblox.com/u/heii_ish/summary)
 [@IntellectualBeing](https://devforum.roblox.com/u/intellectualbeing/summary)
+
+(If you've seen your assets used in any official release of Spearhead and want to be credited, please contact me though the [Discord server](https://discord.gg/VXZKuYVdse) so I know where you're coming from!)
 
 ## Special Thanks
 
