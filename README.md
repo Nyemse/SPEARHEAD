@@ -31,7 +31,7 @@ Special thanks to these users who's forum posts and code were super useful for v
 ## Special Thanks
 
 [@00scorpion00](https://www.roblox.com/users/19047915/profile) : Creator of [ACS](https://discord.gg/advanced-combat-system-community-827005719454810173), a system that I have spent countless hours modifying and playing with.
-Also the developer of [Operations: Siege](https://www.roblox.com/games/13997018456/Operations-Siege), check it out in his primary group!
+Also the developer of [Operations: Siege](https://www.roblox.com/games/13997018456/Operations-Siege), check it out if you like R6S!
 
 [@Archeximus](https://www.roblox.com/users/93693150/profile) : Creator of amazing combat systems and a huge inspiration to me.
 If you like challenging fps survival stuff, I highly recommend any of her games.
