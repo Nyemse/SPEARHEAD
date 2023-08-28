@@ -16,7 +16,7 @@
 
 [@vampyrio09](https://www.roblox.com/users/51920259/profile) : Made the particle emitters I used for the blood hit fx.
 
-[@DevBuda](https://www.roblox.com/users/2493863166/profile) : Imported a bunch of M4A1 meshes and attachments that I used for some of the gun models.
+[@DevBuda](https://www.roblox.com/users/2493863166/profile) : Released a bunch of imported M4A1 meshes and attachments that I used for some of the gun models.
 
 [@IrischaII](https://www.roblox.com/users/4608144779/profile) : Imported a bunch of gun models and gave me permission to include them with public versions of Spearhead.
 
