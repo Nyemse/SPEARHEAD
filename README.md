@@ -2,8 +2,8 @@
 - To download Spearhead, go to the [releases](https://github.com/Nyemse/SPEARHEAD/releases) page
 - For help with setup and configuration, visit the [wiki tab](https://github.com/Nyemse/SPEARHEAD/wiki)
 - If you'd like to support this project, visit my [ko-fi page](https://ko-fi.com/inabaa) (Donations can be anonymous and in any currency)
-
-[Click here to join the community Discord server!](https://discord.gg/VXZKuYVdse)
+- Release statistics can be viewed [here](https://tooomm.github.io/github-release-stats/?username=Nyemse&repository=SPEARHEAD)
+- [Click here to join the community Discord server!](https://discord.gg/VXZKuYVdse)
 
 ## Credits
 [@ffrostfall](https://devforum.roblox.com/u/ffrostfall/summary) : Creator of [BridgeNet](https://github.com/ffrostflame/BridgeNet), the module I used for handling networking.
