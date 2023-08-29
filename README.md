@@ -20,11 +20,13 @@
 
 [@IrischaII](https://www.roblox.com/users/4608144779/profile) : Imported a bunch of gun models and gave me permission to include them with public versions of Spearhead.
 
-Special thanks to these users who's forum posts and code were super useful for various mechanics;
+Special thanks to these users who's forum/discord posts and code were super useful in Spearhead's development;
 [@LittleBagOfGarbage](https://devforum.roblox.com/u/littlebagofgarbage/summary)
 [@Clueless_Brick](https://devforum.roblox.com/u/clueless_brick/summary)
 [@heII_ish](https://devforum.roblox.com/u/heii_ish/summary)
 [@IntellectualBeing](https://devforum.roblox.com/u/intellectualbeing/summary)
+[@uhi_o](https://devforum.roblox.com/u/uhi_o/summary)
+[@nicolasfp1](https://www.roblox.com/users/269820206/profile)
 
 (If you've seen your assets used in any official release of Spearhead and want to be credited, please contact me though the [Discord server](https://discord.gg/VXZKuYVdse) so I know where you're coming from!)
 
