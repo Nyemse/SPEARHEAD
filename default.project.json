@@ -1,0 +1,34 @@
+{
+  "name": "Spearhead",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "SPH_Assets": {
+        "$ignoreUnknownInstances": true,
+        "$path": "src/shared"
+      }
+    },
+
+    "ServerScriptService": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/server"
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$ignoreUnknownInstances": true,
+        "SPH_Player": {
+          "$ignoreUnknownInstances": true,
+          "$path": "src/client/player"
+        }
+      },
+      "StarterCharacterScripts": {
+        "$ignoreUnknownInstances": true,
+        "SPH_Character": {
+          "$path": "src/client/character"
+        }
+      }
+    }
+  }
+}
